@@ -57,8 +57,5 @@ npm test
 You can view full document on our [official website](https://pro.ant.design). And welcome any feedback in our [github](https://github.com/ant-design/ant-design-pro).
 
 test
-<<<<<<< HEAD
 test a
-=======
 test b
->>>>>>> 4ee5837 (test: update readme)
